@@ -2,13 +2,13 @@
     "name": "Telegram cheker by @Almortagel_12",
     "description": "",
     "stack": "container",
-    "repository": "https://github.com/mnxs8/uzer",
+    "repository": "https://github.com/Almortage/Almk",
     "keywords": [
         "python",
         "checker",
         "telegrambot"
     ],
-    "website": "https://github.com/mnxs8/uzer",
+    "website": "https://github.com/Almortage/Almk",
     "env": {
         "ID": {
             "description": "ايدي المطور",
