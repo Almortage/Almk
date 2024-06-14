@@ -1,0 +1,29 @@
+{
+    "name": "Telegram cheker by @Almortagel_12",
+    "description": "",
+    "stack": "container",
+    "repository": "https://github.com/mnxs8/uzer",
+    "keywords": [
+        "python",
+        "checker",
+        "telegrambot"
+    ],
+    "website": "https://github.com/mnxs8/uzer",
+    "env": {
+        "ID": {
+            "description": "ايدي المطور",
+            "value": "",
+            "required": true
+        },
+        "USERNAME": {
+            "description": "يوزر المطور",
+            "value": "",
+            "required": true
+        },
+        "TOKEN": {
+            "description": "توكن االبوت",
+            "value": "",
+            "required": true
+        }
+    }
+}
